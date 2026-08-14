@@ -1,0 +1,6 @@
+{
+  "name": "Domestic Bot Dashboard",
+  "description": "Interactive 55-inch touch kiosk interface for a household assistive robot museum exhibit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
