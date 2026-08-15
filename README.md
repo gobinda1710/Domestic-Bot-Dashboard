@@ -1,20 +1,53 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
+🤖 Domestic Bot Dashboard
 
-# Run and deploy your AI Studio app
+AI & Human-Robot Collaboration
+Assistive Robot OS Flow
+CSE441 — UI/UX Design
+Daffodil International University
 
-This contains everything you need to run your app locally.
+[Live Demo] [Figma Prototype] [GitHub]
 
-View your app in AI Studio: https://ai.studio/apps/672ecdff-2b5c-4938-a390-87da49fa51be
+━━━━━━━━━━━━━━━━━━━━
 
-## Run Locally
+📌 Project Overview
 
-**Prerequisites:**  Node.js
+🎯 Problem Statement
 
+💡 Proposed Solution
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔬 Science Museum Context
+
+⚙️ Technical Stack
+
+✨ Key Features
+
+🖥️ UI/UX Screens
+
+🔄 User Flow
+
+🤖 Human-Robot Collaboration
+
+♿ Accessibility
+
+🧩 Hardware Integration
+
+📡 Sensor & Controller Mapping
+
+🎨 Design System
+
+📱 55" Touch Kiosk Specification
+
+🚀 How to Run Locally
+
+📂 Project Structure
+
+🔗 Live Demo
+
+🎨 Figma Prototype
+
+📚 Project Requirements
+
+👨‍💻 Author
