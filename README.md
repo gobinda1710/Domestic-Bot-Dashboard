@@ -6,7 +6,8 @@ Assistive Robot OS Flow
 CSE441 — UI/UX Design
 Daffodil International University
 
-[Live Demo] [Figma Prototype] [GitHub]
+[Live Demo]https://bot-dashboard1709.ai.studio/
+[Figma Prototype] [GitHub]
 
 ━━━━━━━━━━━━━━━━━━━━
 
